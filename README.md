@@ -2,7 +2,7 @@
 Uso softwares R y Python
 
 
-[Proyecto 1: Desegregación del decil más rico](https://esteban19967769.github.io/Esteban_Proyecto1/)
+[Proyecto 1: Desegregación del decil más rico](https://esteban19967769.github.io/Esteban_Proyect1/)
 
 Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 Scraped over 1000 job descriptions from glassdoor using python and selenium
